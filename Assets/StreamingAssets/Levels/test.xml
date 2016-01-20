@@ -1,0 +1,6 @@
+<level>
+	<route>
+		<node x="2.54" y="2.54" z="2.54"/>
+		<node x="4.54" y="2.54" z="2.54"/>
+	</route>
+</level>
