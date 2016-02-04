@@ -48,7 +48,8 @@ public class WeaponProjectileBaseScript : MonoBehaviour
 			OnUnitHit( collision );
         }
 
-		// Kill protectile
+        // Kill protectile but save effects
+        SaveEffects();
 		Destroy( transform.parent.gameObject );
 
 		// Spawn projectile death effect
@@ -60,4 +61,28 @@ public class WeaponProjectileBaseScript : MonoBehaviour
 	{
 
 	}
+
+    private void SaveEffects()
+    {
+        if ( transform.childCount == 0 ) return;
+
+        // Remove parent so it's not deleted
+        Transform effects = transform.GetChild( 0 );
+        effects.SetParent( null );
+
+        // Stop audio from looping
+        AudioSource audio = effects.GetComponent<AudioSource>();
+        if ( audio )
+        {
+            audio.loop = false;
+        }
+
+        // Stop particles from looping
+        ParticleSystem particle = effects.GetComponent<ParticleSystem>();
+        if ( particle )
+        {
+            particle.loop = false;
+            particle.Stop();
+        }
+    }
 }
