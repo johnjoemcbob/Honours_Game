@@ -12,6 +12,7 @@ public class PlayerHandAnimationScript : MonoBehaviour
 		public float HoldCompleteTime;
 	}
 
+	public bool IsLeft = false;
 	public GameObject[] AnimationKeyFrames;
 
 	// Stack of animations to play, 0 is idle

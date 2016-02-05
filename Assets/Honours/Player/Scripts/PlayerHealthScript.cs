@@ -13,14 +13,30 @@ public class PlayerHealthScript : ObjectHealthScript
 	public Text Text_Health;
 	public Image Image_Health;
 
+	void Start()
+	{
+		if ( !Text_Health )
+		{
+			print( "PlayerHealthScript: Requires Text UI object for health" );
+		}
+		if ( !GameLogic )
+		{
+			print( "PlayerHealthScript: Requires reference to GameLogicScript" );
+		}
+	}
+
 	override protected void HandleTakeDamage( int damage )
 	{
+		if ( !Text_Health ) return;
+
 		Text_Health.text = string.Format( "{0} / {1}", Health, MaxHealth );
 		Image_Health.fillAmount = (float) Health / MaxHealth;
     }
 
 	override protected void HandleDeath()
 	{
+		if ( !GameLogic ) return;
+
 		GameLogic.CheckForGameEnd( true );
 	}
 
