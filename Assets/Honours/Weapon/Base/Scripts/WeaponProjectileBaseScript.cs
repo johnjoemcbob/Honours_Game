@@ -31,22 +31,22 @@ public class WeaponProjectileBaseScript : MonoBehaviour
 		if ( ( !collision.gameObject ) || collision.gameObject.CompareTag( "Player" ) ) return;
 
 		// Kill enemy
-		if ( ( !HasHitUnit ) && ( collision != null ) && ( collision.transform.gameObject.layer == LayerMask.NameToLayer( "Enemy" ) ) )
-		{
-			EnemyUnitBaseScript enemyunit = collision.transform.GetComponent<EnemyUnitBaseScript>();
-			if ( enemyunit )
-			{
-				enemyunit.Die_Killed();
-            }
+		//if ( ( !HasHitUnit ) && ( collision != null ) && ( collision.transform.gameObject.layer == LayerMask.NameToLayer( "Enemy" ) ) )
+		//{
+		//	EnemyUnitBaseScript enemyunit = collision.transform.GetComponent<EnemyUnitBaseScript>();
+		//	if ( enemyunit )
+		//	{
+		//		enemyunit.Die_Killed();
+  //          }
 
-			Destroy( collision.transform.gameObject );
+		//	Destroy( collision.transform.gameObject );
 
-			// Flag as hit so no other units are destroyed this frame
-			HasHitUnit = true;
+		//	// Flag as hit so no other units are destroyed this frame
+		//	HasHitUnit = true;
 
-			// Virtual override for child classes
-			OnUnitHit( collision );
-        }
+		//	// Virtual override for child classes
+		//	OnUnitHit( collision );
+  //      }
 
         // Kill protectile but save effects
         SaveEffects();

@@ -46,6 +46,6 @@ public class ObjectHealthScript : MonoBehaviour
 
 	virtual protected void HandleDeath()
 	{
-
+        Destroy( gameObject );
 	}
 }

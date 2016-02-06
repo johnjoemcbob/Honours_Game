@@ -33,6 +33,8 @@ public class EnemyUnitCubeScript : EnemyUnitBaseScript
 
 	void UpdateUnit()
 	{
+        if ( !RouteStart ) { Destroy( gameObject ); return; }
+
 		// Get the forward direction for travelling in
 		Vector3 direction = RouteStart.transform.position - transform.position;
 		{

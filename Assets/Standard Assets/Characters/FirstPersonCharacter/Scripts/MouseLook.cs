@@ -14,6 +14,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         public float MaximumX = 90F;
         public bool smooth;
         public float smoothTime = 5f;
+        public float Deadzone = 0.1f;
 
 
         private Quaternion m_CharacterTargetRot;
@@ -29,8 +30,21 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         public void LookRotation(Transform character, Transform camera)
         {
+            Vector2 controller = new Vector2( CrossPlatformInputManager.GetAxis( "Joystick 1 Axis 1" ), CrossPlatformInputManager.GetAxis( "Joystick 1 Axis 2" ) );
+            {
+                if ( controller.magnitude < Deadzone )
+                {
+                    controller = Vector2.zero;
+                }
+                else
+                {
+                    controller = controller.normalized * ( ( controller.magnitude - Deadzone ) / ( 1 - Deadzone ) );
+                }
+            }
             float yRot = CrossPlatformInputManager.GetAxis("Mouse X") * XSensitivity;
             float xRot = CrossPlatformInputManager.GetAxis("Mouse Y") * YSensitivity;
+            yRot += controller.x * XSensitivity;
+            xRot += -controller.y * YSensitivity;
 
             m_CharacterTargetRot *= Quaternion.Euler (0f, yRot, 0f);
             m_CameraTargetRot *= Quaternion.Euler (-xRot, 0f, 0f);

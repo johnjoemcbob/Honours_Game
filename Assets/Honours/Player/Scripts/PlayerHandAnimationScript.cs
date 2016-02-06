@@ -20,6 +20,8 @@ public class PlayerHandAnimationScript : MonoBehaviour
 	private AnimationInfo CurrentAnimationInfo;
 	// The index of the currently playing animation
 	private int CurrentAnimation = -1;
+    // The time at which the last animation change occured
+    private float LastAnimationChange = 0;
 
 	void Start()
 	{
@@ -30,11 +32,18 @@ public class PlayerHandAnimationScript : MonoBehaviour
 			idle.HoldTime = -1; // Hold until a new animation is added
 		}
 		AnimationStack.Add( idle );
+
+        if ( IsLeft )
+        {
+            LastAnimationChange += 1000;
+        }
 	}
 
 	void Update()
 	{
 		if ( AnimationStack.Count == 0 ) return;
+
+        TryIdle();
 
 		// Check for a new animation
 		int maxanim = AnimationStack.Count - 1;
@@ -46,7 +55,9 @@ public class PlayerHandAnimationScript : MonoBehaviour
 			CurrentAnimationInfo = (AnimationInfo) AnimationStack.ToArray()[CurrentAnimation];
 			CurrentAnimationInfo.LerpCompleteTime = Time.time + CurrentAnimationInfo.LerpTime;
 			CurrentAnimationInfo.HoldCompleteTime = -1;
-		}
+
+            LastAnimationChange = Time.time;
+        }
 
 		// Lerp to new animation position
 		if ( !AnimationKeyFrames[CurrentAnimationInfo.Index] ) return;
@@ -85,6 +96,20 @@ public class PlayerHandAnimationScript : MonoBehaviour
 			PopAnimation();
 		}
 	}
+
+    private void TryIdle()
+    {
+        if ( AnimationStack.Count > 1 ) return;
+
+        float time = Time.time - LastAnimationChange;
+        float chance = Random.Range( 0.0f, 10000.0f );
+        if ( chance < time )
+        {
+            PushAnimation( 2, 1, 0.4f );
+            PushAnimation( 1, 1, 0.4f );
+            LastAnimationChange = Time.time;
+        }
+    }
 
 	public void PushAnimation( int animindex, float animlerptime, float animholdtime )
 	{

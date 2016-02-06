@@ -15,6 +15,8 @@ public class ObjectDoesDamageScript : MonoBehaviour
 	public int Damage = 1;
 	// The delay before applying more damage while the object is in collision/within the trigger
 	public float BetweenDamage = 0.5f;
+    // Only deals damage once
+    public bool OneShot = false;
 
 	private float NextDamage = 0;
 
@@ -54,6 +56,12 @@ public class ObjectDoesDamageScript : MonoBehaviour
 
 					// Delay before next damage to any victim
 					NextDamage = Time.time + BetweenDamage;
+
+                    // Destroy if it was a one shot
+                    if ( OneShot )
+                    {
+                        Destroy( this );
+                    }
 				}
 			}
 		}
