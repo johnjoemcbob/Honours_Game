@@ -20,7 +20,8 @@ public class LerpToTransformScript : MonoBehaviour
         {
             speed *= 2;
         }
-        transform.position = Vector3.MoveTowards( transform.position, Target.position, speed * Time.deltaTime );
+        //transform.position = Vector3.MoveTowards( transform.position, Target.position, speed * Time.deltaTime );
+        transform.position = Vector3.Lerp( transform.position, Target.position, speed * Time.deltaTime );
 
         // Move to target rotation
         speed = RotateSpeed;
@@ -29,6 +30,7 @@ public class LerpToTransformScript : MonoBehaviour
         {
             speed *= 2;
         }
-        transform.rotation = Quaternion.RotateTowards( transform.rotation, Target.rotation, speed * Time.deltaTime );
+        //transform.rotation = Quaternion.RotateTowards( transform.rotation, Target.rotation, speed * Time.deltaTime );
+        transform.rotation = Quaternion.Lerp( transform.rotation, Target.rotation, speed * Time.deltaTime );
     }
 }

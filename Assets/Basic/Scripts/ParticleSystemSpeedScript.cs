@@ -13,7 +13,7 @@ public class ParticleSystemSpeedScript : MonoBehaviour
         }
         for ( int particle = 0; particle < particlecount; particle++ )
         {
-            particles[particle].velocity = ( transform.position - particles[particle].position ).normalized * Time.deltaTime * 1000;
+            particles[particle].velocity = ( transform.position - particles[particle].position ).normalized * Time.deltaTime * 10000;
         }
         GetComponent<ParticleSystem>().SetParticles( particles, particlecount );
     }
