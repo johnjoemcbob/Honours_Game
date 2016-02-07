@@ -4,6 +4,7 @@ using System.Collections;
 public class CleanupAfterEffectsScript : MonoBehaviour
 {
 	public float WaitTime = 0.5f;
+    public GameObject ToDelete = null;
 
 	private float ElapsedTime = 0;
 
@@ -23,7 +24,14 @@ public class CleanupAfterEffectsScript : MonoBehaviour
         else
         {
             // Cleanup remaining objects
-            Destroy( gameObject );
+            if ( ToDelete )
+            {
+                Destroy( ToDelete );
+            }
+            else
+            {
+                Destroy( gameObject );
+            }
         }
     }
 }

@@ -13,7 +13,7 @@ public class ObjectHealthScript : MonoBehaviour
 
 	protected int Health;
 
-	void Start()
+	public void Start()
 	{
 		Health = MaxHealth;
 	}

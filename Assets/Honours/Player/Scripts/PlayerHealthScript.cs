@@ -13,8 +13,10 @@ public class PlayerHealthScript : ObjectHealthScript
 	public Text Text_Health;
 	public Image Image_Health;
 
-	void Start()
+	public void Start()
 	{
+        base.Start();
+
 		if ( !Text_Health )
 		{
 			print( "PlayerHealthScript: Requires Text UI object for health" );
@@ -23,7 +25,7 @@ public class PlayerHealthScript : ObjectHealthScript
 		{
 			print( "PlayerHealthScript: Requires reference to GameLogicScript" );
 		}
-	}
+    }
 
 	override protected void HandleTakeDamage( int damage )
 	{

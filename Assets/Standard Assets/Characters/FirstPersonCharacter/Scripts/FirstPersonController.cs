@@ -27,6 +27,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         [SerializeField] private AudioClip[] m_FootstepSounds;    // an array of footstep sounds that will be randomly selected from.
         [SerializeField] private AudioClip m_JumpSound;           // the sound played when character leaves the ground.
         [SerializeField] private AudioClip m_LandSound;           // the sound played when character touches back on ground.
+        [SerializeField] private GameObject LandEffect;
 
         private Camera m_Camera;
         private bool m_Jump;
@@ -86,6 +87,10 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void PlayLandingSound()
         {
+            // Create dust particle effect
+            GameObject effect = (GameObject) Instantiate( LandEffect, transform.position - transform.up * 0.6f, transform.rotation );
+            effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
+
             m_AudioSource.clip = m_LandSound;
             m_AudioSource.Play();
             m_NextStep = m_StepCycle + .5f;

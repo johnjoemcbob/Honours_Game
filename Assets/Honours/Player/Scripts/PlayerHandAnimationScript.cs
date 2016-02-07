@@ -128,4 +128,9 @@ public class PlayerHandAnimationScript : MonoBehaviour
 
 		AnimationStack.RemoveAt( AnimationStack.Count - 1 );
 	}
+
+    public int GetAnimation()
+    {
+        return CurrentAnimationInfo.Index;
+    }
 }
