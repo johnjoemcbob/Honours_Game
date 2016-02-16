@@ -13,7 +13,8 @@ public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 	{
 		// temp path testing
 		Vector3 direction = Vector3.Normalize( RouteStart.transform.position - transform.position );
-        GetComponent<Rigidbody>().velocity = Vector3.Lerp( GetComponent<Rigidbody>().velocity, direction * Speed, Time.deltaTime * LerpSpeed );
+		transform.position = Vector3.Lerp( transform.position, RouteStart.transform.position, Time.deltaTime * Speed );
+		transform.rotation = Quaternion.Lerp( transform.rotation, Quaternion.LookRotation( direction ), Time.deltaTime * LerpSpeed );
 
 		// if close then move on to next node
 		float distance = Vector3.Distance( transform.position, RouteStart.transform.position );
@@ -25,8 +26,5 @@ public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 				RouteStart = nextnode;
 			}
 		}
-
-		UpdateFall();
-		UpdateHat();
 	}
 }

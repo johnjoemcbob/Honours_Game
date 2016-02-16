@@ -6,10 +6,5 @@
       <Key>JumpEnd</Key>
       <Value>9.536741E-08 0 2.384186E-07</Value>
     </AnalyticDataIndividual>
-    <AnalyticDataIndividual>
-      <Timestamp>34.08746</Timestamp>
-      <Key>JumpEnd</Key>
-      <Value>-2.853751 0.03000006 2.473445</Value>
-    </AnalyticDataIndividual>
   </Data>
 </RoundData>
