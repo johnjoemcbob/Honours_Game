@@ -6,5 +6,20 @@
       <Key>JumpEnd</Key>
       <Value>9.536741E-08 0 2.384186E-07</Value>
     </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.38986158</Timestamp>
+      <Key>JumpEnd</Key>
+      <Value>-0.01922539 0.03000003 3.380214</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.354102</Timestamp>
+      <Key>JumpEnd</Key>
+      <Value>-0.01443893 1.006456 0.8542941</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.640395</Timestamp>
+      <Key>JumpEnd</Key>
+      <Value>-0.02700491 0.03000006 1.654195</Value>
+    </AnalyticDataIndividual>
   </Data>
 </RoundData>

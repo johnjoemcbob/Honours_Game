@@ -11,6 +11,8 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
     public float MaxJumpDistance = 5;
     public Vector3 AnimateJumpStartTarget = Vector3.zero;
     public Vector3 AnimateJumpEndTarget = Vector3.zero;
+	public AudioClip Sound_JumpStart;
+	public AudioClip Sound_JumpEnd;
 
     private Transform Projectile;
     private Vector3 TargetPosition = Vector3.zero;
@@ -24,8 +26,8 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
 
     void Start()
 	{
-		GetComponent<AudioSource>().volume = Random.Range( 0.01f, 0.02f );
-		GetComponent<AudioSource>().pitch = Random.Range( 0.85f, 1.15f );
+		GetComponent<AudioSource>().volume = Random.Range( 0.2f, 0.4f );
+		GetComponent<AudioSource>().pitch = Random.Range( 0.45f, 0.6f );
 
 		UniqueTimeOffset = Random.Range( 0.01f, 1.25f );
 
@@ -194,6 +196,9 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
     IEnumerator SimulateProjectile()
     {
         //Projectile.GetComponent<Rigidbody>().isKinematic = true;
+		// Play start sound
+		GetComponent<AudioSource>().clip = Sound_JumpStart;
+		GetComponent<AudioSource>().Play();
 
         // Move projectile to the position of throwing object + add some offset if needed.
         //Projectile.position = myTransform.position + new Vector3( 0, 1.0f, 0 );
@@ -217,7 +222,11 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
         Projectile.rotation = Quaternion.LookRotation( TargetPosition - Projectile.position );
 
         Projectile.GetComponent<Rigidbody>().velocity = new Vector3( Vx * Projectile.transform.forward.x, Vy, Vx * Projectile.transform.forward.z );
-        TargetPosition = Vector3.zero;
+		TargetPosition = Vector3.zero;
+
+		// Play end sound
+		GetComponent<AudioSource>().clip = Sound_JumpEnd;
+		GetComponent<AudioSource>().Play();
 
         yield return true;
     }
