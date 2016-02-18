@@ -3,10 +3,19 @@ using System.Collections;
 
 public class EnemyHealthScript : ObjectHealthScript
 {
+	public GameObject EnemyContainer;
+
     override protected void HandleDeath()
     {
-        Destroy( gameObject );
-
-        GetComponent<EnemyUnitBaseScript>().Die_Killed();
+		if ( EnemyContainer )
+		{
+			Destroy( EnemyContainer );
+			EnemyContainer.GetComponent<EnemyUnitBaseScript>().Die_Killed();
+		}
+		else
+		{
+			Destroy( gameObject );
+			GetComponent<EnemyUnitBaseScript>().Die_Killed();
+		}
     }
 }
