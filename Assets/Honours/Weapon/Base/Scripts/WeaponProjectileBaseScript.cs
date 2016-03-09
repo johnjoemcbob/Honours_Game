@@ -8,7 +8,8 @@ using System.Collections;
 
 public class WeaponProjectileBaseScript : MonoBehaviour
 {
-	public GameObject DeathEffectPrefab;
+	public string AllyTag = "Player";
+    public GameObject DeathEffectPrefab;
 
 	private bool HasHitUnit = false;
 
@@ -28,25 +29,7 @@ public class WeaponProjectileBaseScript : MonoBehaviour
 
 	virtual protected void OnCollide( Collision collision )
 	{
-		if ( ( !collision.gameObject ) || collision.gameObject.CompareTag( "Player" ) ) return;
-
-		// Kill enemy
-		//if ( ( !HasHitUnit ) && ( collision != null ) && ( collision.transform.gameObject.layer == LayerMask.NameToLayer( "Enemy" ) ) )
-		//{
-		//	EnemyUnitBaseScript enemyunit = collision.transform.GetComponent<EnemyUnitBaseScript>();
-		//	if ( enemyunit )
-		//	{
-		//		enemyunit.Die_Killed();
-  //          }
-
-		//	Destroy( collision.transform.gameObject );
-
-		//	// Flag as hit so no other units are destroyed this frame
-		//	HasHitUnit = true;
-
-		//	// Virtual override for child classes
-		//	OnUnitHit( collision );
-  //      }
+		if ( ( !collision.gameObject ) || collision.gameObject.CompareTag( AllyTag ) ) return;
 
         // Kill protectile but save effects
         SaveEffects();

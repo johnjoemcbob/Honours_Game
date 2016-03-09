@@ -8,7 +8,8 @@ using System.Collections;
 
 public class EnemyUnitSlimeScript : EnemyUnitBaseScript
 {
-    public float MaxJumpDistance = 5;
+	[Header( "Slime" )]
+	public float MaxJumpDistance = 5;
     public Vector3 AnimateJumpStartTarget = Vector3.zero;
     public Vector3 AnimateJumpEndTarget = Vector3.zero;
 	public AudioClip Sound_JumpStart;
@@ -176,22 +177,6 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
         }
         transform.GetChild( 0 ).localScale = scale;
     }
-
-    private void UpdateAttack()
-	{
-		//if ( AttackCooldown > Time.time ) return;
-
-		//foreach ( Collider posvictim in Physics.OverlapSphere( transform.position, 5 ) )
-		//{
-		//	if ( posvictim.gameObject.CompareTag( "Player" ) )
-		//	{
-		//		HasControl = false;
-		//		Moving = false;
-		//		Attacks[0].GetComponent<EnemyUnitCubeAttackPounceScript>().RouteStart = posvictim.gameObject;
-		//		Attacks[0].HasControl = true;
-		//	}
-  //      }
-	}
 
     // From: http://forum.unity3d.com/threads/throw-an-object-along-a-parabola.158855/
     IEnumerator SimulateProjectile()

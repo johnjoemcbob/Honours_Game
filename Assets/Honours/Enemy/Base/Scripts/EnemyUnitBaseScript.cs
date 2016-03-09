@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 // The base enemy logic script
 // 
@@ -8,6 +9,7 @@ using System.Collections;
 
 public class EnemyUnitBaseScript : MonoBehaviour
 {
+	[Header( "Base Unit" )]
 	// Units switch between moving and attacking scripts
 	public bool HasControl = true;
 	// The current node of the route this unit will take, begins being set as the start node
@@ -15,7 +17,7 @@ public class EnemyUnitBaseScript : MonoBehaviour
 	public float Speed = 1;
 	public float LerpSpeed = 1;
 	// The possible attacks this enemy can perform
-	public EnemyUnitBaseScript[] Attacks;
+	public List<EnemyAttackBaseScript> Attacks;
 	public float AttackCooldown = 0;
 	// The gameobject child of this unit representing its hat
 	public GameObject Hat;
@@ -62,13 +64,40 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		if ( !HasControl ) return;
 		if ( NextAttack > Time.time ) return;
 
-		// Choose an attack and activate
-		int attack = Random.Range( 0, Attacks.Length - 1 );
-		Attacks[attack].HasControl = true;
+		// Choose an possible attack and activate
+		bool attackfound = false;
+        {
+			// Store all attacks temp
+			List<EnemyAttackBaseScript> temp = new List<EnemyAttackBaseScript>( Attacks );
+
+			// Calculate distance from the enemy to the closest target
+			GameObject target = GameObject.Find( "Player" );
+			float dist = Vector3.Distance( target.transform.position, transform.position );
+
+			// While some attacks remain, try to find a suitable one
+			while ( temp.Count > 0 )
+			{
+				// Try a random attack from the remaining
+				int attack = Random.Range( 0, temp.Count - 1 );
+				if ( ( dist >= temp[attack].AttackRange.x ) && ( dist <= temp[attack].AttackRange.y ) )
+				{
+					temp[attack].HasControl = true;
+					attackfound = true;
+					break;
+				}
+				else
+				{
+					temp.RemoveAt( attack );
+				}
+			}
+		}
 
 		// Flag as attacking
-		HasControl = false;
-		NextAttack = Time.time + AttackCooldown;
+		if ( attackfound )
+		{
+			HasControl = false;
+			NextAttack = Time.time + AttackCooldown;
+		}
 	}
 
 	protected void UpdateAnalytic()

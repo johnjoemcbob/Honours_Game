@@ -8,6 +8,8 @@ using System.Collections;
 
 public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 {
+	//[Header( "Float Skull" )]
+
 	// Update is called once per frame
 	void Update()
 	{

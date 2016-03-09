@@ -1,13 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-// The float skull enemy test logic script
+// The float skull enemy attack script
 // 
 // Matthew Cormack
 // 13/01/16 - 04:41
 
-public class EnemyUnitFloatSkullAttackSpitScript : EnemyUnitBaseScript
+public class EnemyUnitFloatSkullAttackSpitScript : EnemyAttackBaseScript
 {
+	[Header( "Float Skull Attack" )]
 	// Attack start variables
 	public float ChargeUpSpeed = 5;
 	public float ProjectileSpeed = 1;
@@ -22,7 +23,7 @@ public class EnemyUnitFloatSkullAttackSpitScript : EnemyUnitBaseScript
 	// Base logic for this enemy
 	public EnemyUnitBaseScript UnitMovement;
 
-	// Cube pounce attack has Rotating, ChargingUp, & Attacking states
+	// 
 	enum AttackStates
 	{
 		Rotating,
@@ -103,7 +104,6 @@ public class EnemyUnitFloatSkullAttackSpitScript : EnemyUnitBaseScript
 
 		// Move to attacking
 		if ( Quaternion.Angle( Hat.transform.rotation, Jaw_Open.rotation ) < 1 )
-		//if ( close )
 		{
 			State = AttackStates.Attacking;
 		}
@@ -139,7 +139,6 @@ public class EnemyUnitFloatSkullAttackSpitScript : EnemyUnitBaseScript
 
 		// Return control to movement
 		if ( Quaternion.Angle( Hat.transform.rotation, Jaw_Close.rotation ) < 1 )
-		//if ( close )
 		{
 			HasControl = false;
 			UnitMovement.HasControl = true;
