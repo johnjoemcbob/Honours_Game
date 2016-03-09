@@ -36,12 +36,12 @@ public class EnemySpawnerScript : MonoBehaviour
 	void Start()
 	{
 		int formation = 0;
-		int unit_cube = 0;
-		int unit_sphere = 1;
+		int unit_slime = 0;
+		int unit_floatskull = 1;
 		int unit_bomb = 2;
 
 		// 5 Cubes; Straight
-		SpawnFormations[formation].Prefab = testprefab[unit_cube];
+		SpawnFormations[formation].Prefab = testprefab[unit_slime];
         SpawnFormations[formation].NumberOfPrefabs = 5;
 		SpawnFormations[formation].Route = 0;
 		SpawnFormations[formation].UnitDelay = 0.4f;
@@ -49,7 +49,7 @@ public class EnemySpawnerScript : MonoBehaviour
         formation++;
 
 		// 1 Sphere; Figure Eight
-		SpawnFormations[formation].Prefab = testprefab[unit_sphere];
+		SpawnFormations[formation].Prefab = testprefab[unit_floatskull];
 		SpawnFormations[formation].NumberOfPrefabs = 1;
 		SpawnFormations[formation].Route = 1;
 		SpawnFormations[formation].UnitDelay = 0.2f;
@@ -57,7 +57,7 @@ public class EnemySpawnerScript : MonoBehaviour
 		formation++;
 
 		// 10 Cubes; Straight
-		SpawnFormations[formation].Prefab = testprefab[unit_cube];
+		SpawnFormations[formation].Prefab = testprefab[unit_slime];
 		SpawnFormations[formation].NumberOfPrefabs = 10;
 		SpawnFormations[formation].Route = 0;
 		SpawnFormations[formation].UnitDelay = 0.4f;
@@ -65,7 +65,7 @@ public class EnemySpawnerScript : MonoBehaviour
 		formation++;
 
 		// 10 Cubes; Figure Eight
-		SpawnFormations[formation].Prefab = testprefab[unit_cube];
+		SpawnFormations[formation].Prefab = testprefab[unit_slime];
 		SpawnFormations[formation].NumberOfPrefabs = 10;
 		SpawnFormations[formation].Route = 1;
 		SpawnFormations[formation].UnitDelay = 0.4f;
@@ -73,10 +73,10 @@ public class EnemySpawnerScript : MonoBehaviour
 		formation++;
 
 		// 5 Spheres; Figure Eight
-		SpawnFormations[formation].Prefab = testprefab[unit_sphere];
+		SpawnFormations[formation].Prefab = testprefab[unit_floatskull];
 		SpawnFormations[formation].NumberOfPrefabs = 5;
 		SpawnFormations[formation].Route = 1;
-		SpawnFormations[formation].UnitDelay = 0.2f;
+		SpawnFormations[formation].UnitDelay = 0.6f;
 		SpawnFormations[formation].NextDelay = 2;
 		formation++;
 
@@ -89,7 +89,7 @@ public class EnemySpawnerScript : MonoBehaviour
 		formation++;
 
 		// 15 Cubes; Straight
-		SpawnFormations[formation].Prefab = testprefab[unit_cube];
+		SpawnFormations[formation].Prefab = testprefab[unit_slime];
 		SpawnFormations[formation].NumberOfPrefabs = 15;
 		SpawnFormations[formation].Route = 0;
 		SpawnFormations[formation].UnitDelay = 0.4f;
@@ -97,10 +97,10 @@ public class EnemySpawnerScript : MonoBehaviour
 		formation++;
 
 		// 20 Spheres; Straight
-		SpawnFormations[formation].Prefab = testprefab[unit_sphere];
+		SpawnFormations[formation].Prefab = testprefab[unit_floatskull];
 		SpawnFormations[formation].NumberOfPrefabs = 20;
 		SpawnFormations[formation].Route = 0;
-		SpawnFormations[formation].UnitDelay = 0.4f;
+		SpawnFormations[formation].UnitDelay = 0.8f;
 		SpawnFormations[formation].NextDelay = 2;
 		formation++;
 

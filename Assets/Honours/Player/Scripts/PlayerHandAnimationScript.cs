@@ -132,5 +132,10 @@ public class PlayerHandAnimationScript : MonoBehaviour
     public int GetAnimation()
     {
         return CurrentAnimationInfo.Index;
-    }
+	}
+
+	public int GetAnimationCount()
+	{
+		return AnimationStack.Count;
+	}
 }
