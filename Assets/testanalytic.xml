@@ -7,54 +7,74 @@
       <Value>9.536741E-08 0 2.384186E-07</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>1.74</Timestamp>
+      <Timestamp>1.86</Timestamp>
       <Key>JumpStart</Key>
-      <Value>-0.9107427 0.03000015 -1.19415</Value>
+      <Value>9.536741E-08 0 2.384186E-07</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>2.80336785</Timestamp>
+      <Timestamp>3.04813933</Timestamp>
       <Key>JumpEnd</Key>
-      <Value>-1.061335 0.03000009 -3.468257</Value>
+      <Value>0.007167567 0.03000006 3.186188</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>3.56</Timestamp>
+      <Timestamp>4.24</Timestamp>
       <Key>JumpStart</Key>
-      <Value>-1.083829 0.03 -3.767413</Value>
+      <Value>0.007167567 0.03000003 3.186188</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>4.595479</Timestamp>
+      <Timestamp>5.27648067</Timestamp>
       <Key>JumpEnd</Key>
-      <Value>-1.452099 0.03000009 -5.834869</Value>
+      <Value>0.007167567 0.03000003 3.186188</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>5.96</Timestamp>
+      <Timestamp>6.66</Timestamp>
       <Key>JumpStart</Key>
-      <Value>-0.9240898 0.03000006 -8.678622</Value>
+      <Value>1.60501 0.03 3.268703</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>6.98234367</Timestamp>
+      <Timestamp>7.686033</Timestamp>
       <Key>JumpEnd</Key>
-      <Value>-1.610425 0.03000012 -11.28312</Value>
+      <Value>1.60501 0.03000003 3.268703</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>7.81999969</Timestamp>
+      <Timestamp>8.46</Timestamp>
       <Key>JumpStart</Key>
-      <Value>-1.643641 0.03000003 -11.37744</Value>
+      <Value>1.60501 0.03000003 3.268703</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>8.856216</Timestamp>
+      <Timestamp>9.495111</Timestamp>
       <Key>JumpEnd</Key>
-      <Value>-1.11578 0.03000003 -7.720336</Value>
+      <Value>1.60501 0.03000003 3.268703</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>15.12</Timestamp>
+      <Timestamp>10.1799994</Timestamp>
       <Key>JumpStart</Key>
-      <Value>0.06674724 0.03000015 -12.08933</Value>
+      <Value>1.60501 0.03000003 3.268703</Value>
     </AnalyticDataIndividual>
     <AnalyticDataIndividual>
-      <Timestamp>16.1476784</Timestamp>
+      <Timestamp>11.2053928</Timestamp>
       <Key>JumpEnd</Key>
-      <Value>0.6284388 0.02999997 -11.02092</Value>
+      <Value>1.838715 0.03000009 -1.38899</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.84</Timestamp>
+      <Key>JumpStart</Key>
+      <Value>2.175957 0.03000006 -2.435951</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.8651552</Timestamp>
+      <Key>JumpEnd</Key>
+      <Value>1.730395 0.03000009 -1.432198</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>17.82</Timestamp>
+      <Key>JumpStart</Key>
+      <Value>3.222461 0.03 -4.594338</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>18.8403072</Timestamp>
+      <Key>JumpEnd</Key>
+      <Value>3.423823 0.03000009 -6.360357</Value>
     </AnalyticDataIndividual>
   </Data>
 </RoundData>
