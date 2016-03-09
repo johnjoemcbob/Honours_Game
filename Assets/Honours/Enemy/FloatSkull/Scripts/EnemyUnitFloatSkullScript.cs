@@ -11,6 +11,8 @@ public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 	// Update is called once per frame
 	void Update()
 	{
+		if ( !HasControl ) return;
+
 		// temp path testing
 		Vector3 direction = Vector3.Normalize( RouteStart.transform.position - transform.position );
 		transform.position = Vector3.Lerp( transform.position, RouteStart.transform.position, Time.deltaTime * Speed );
@@ -28,5 +30,6 @@ public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 		}
 
 		UpdateAnalytic();
+		UpdateAttack();
 	}
 }

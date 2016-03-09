@@ -23,8 +23,11 @@ public class EnemyUnitBaseScript : MonoBehaviour
 	public GameObject DamageDiePrefab;
 	// The prefab to spawn when this enemy is killed by the player
 	public GameObject KilledDiePrefab;
+
 	// The position that analytics were last stored for
 	private Vector3 LastTrackPosition = Vector3.zero;
+	// Time at which next attack will be possible
+	private float NextAttack = 0;
 
 	protected float UniqueTimeOffset = 0;
 
@@ -52,6 +55,20 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		{
 			Die_Killed();
 		}
+	}
+
+	protected void UpdateAttack()
+	{
+		if ( !HasControl ) return;
+		if ( NextAttack > Time.time ) return;
+
+		// Choose an attack and activate
+		int attack = Random.Range( 0, Attacks.Length - 1 );
+		Attacks[attack].HasControl = true;
+
+		// Flag as attacking
+		HasControl = false;
+		NextAttack = Time.time + AttackCooldown;
 	}
 
 	protected void UpdateAnalytic()
