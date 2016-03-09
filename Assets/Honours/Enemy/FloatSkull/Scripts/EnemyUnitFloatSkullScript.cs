@@ -26,5 +26,7 @@ public class EnemyUnitFloatSkullScript : EnemyUnitBaseScript
 				RouteStart = nextnode;
 			}
 		}
+
+		UpdateAnalytic();
 	}
 }

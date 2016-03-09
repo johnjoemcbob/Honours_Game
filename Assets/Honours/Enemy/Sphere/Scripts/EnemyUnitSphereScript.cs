@@ -28,5 +28,6 @@ public class EnemyUnitSphereScript : EnemyUnitBaseScript
 
 		UpdateFall();
 		UpdateHat();
+		UpdateAnalytic();
 	}
 }

@@ -46,6 +46,7 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
 
 		UpdateFall();
         UpdateHat();
+		UpdateAnalytic();
 	}
 
 	void UpdateUnit()

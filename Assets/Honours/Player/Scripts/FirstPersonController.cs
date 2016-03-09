@@ -43,6 +43,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 		private float m_NextStep;
 		private bool m_Jumping;
 		private AudioSource m_AudioSource;
+		private Vector3 LastTrackPosition = Vector3.zero;
 
 		// Use this for initialization
 		private void Start()
@@ -63,6 +64,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
 		// Update is called once per frame
 		private void Update()
 		{
+			// Track the player's position when they move move than a certain distance
+			if ( Vector3.Distance( transform.position, LastTrackPosition ) > 1 )
+			{
+				TrackEvent( Time.time, "PlayerPos", GetPositionForTrackEvent() );
+				LastTrackPosition = transform.position;
+			}
+
 			RotateView();
 			// the jump state needs to read here to make sure it is not missed
 			//if ( !m_Jump )
@@ -81,7 +89,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 				GameObject effect = (GameObject) Instantiate( LandEffect, transform.position - transform.up * 0.6f, transform.rotation );
 				effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 
-				TrackEvent( Time.time, "JumpEnd", GetPositionForTrackEvent() );
+				TrackEvent( Time.time, "PlayerJumpEnd", GetPositionForTrackEvent() );
 			}
 			if ( !m_CharacterController.isGrounded && !m_Jumping && m_PreviouslyGrounded )
 			{
@@ -127,7 +135,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 					PlayJumpSound();
 					m_Jump = false;
 					m_Jumping = true;
-					TrackEvent( Time.time, "JumpStart", GetPositionForTrackEvent() );
+					TrackEvent( Time.time, "PlayerJumpStart", GetPositionForTrackEvent() );
                 }
 			}
 			else

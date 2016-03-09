@@ -23,6 +23,8 @@ public class EnemyUnitBaseScript : MonoBehaviour
 	public GameObject DamageDiePrefab;
 	// The prefab to spawn when this enemy is killed by the player
 	public GameObject KilledDiePrefab;
+	// The position that analytics were last stored for
+	private Vector3 LastTrackPosition = Vector3.zero;
 
 	protected float UniqueTimeOffset = 0;
 
@@ -52,11 +54,23 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		}
 	}
 
+	protected void UpdateAnalytic()
+	{
+		// Track the player's position when they move move than a certain distance
+		if ( Vector3.Distance( transform.position, LastTrackPosition ) > 1 )
+		{
+			TrackEvent( Time.time, "EnemyPos", GetPositionForTrackEvent() );
+			LastTrackPosition = transform.position;
+		}
+	}
+
 	public void Die_DamageGate()
 	{
 		GameObject effect = (GameObject) Instantiate( DamageDiePrefab, transform.position, Quaternion.Euler( Vector3.zero ) );
 		effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 		Destroy( gameObject );
+
+		TrackEvent( Time.time, "EnemyGate", GetPositionForTrackEvent() );
 	}
 
 	public void Die_Killed()
@@ -64,5 +78,19 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		GameObject effect = (GameObject) Instantiate( KilledDiePrefab, transform.position, Quaternion.Euler( Vector3.zero ) );
 		effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 		Destroy( gameObject );
+
+		TrackEvent( Time.time, "EnemyDie", GetPositionForTrackEvent() );
+	}
+
+	protected void TrackEvent( float time, string key, string value )
+	{
+		GameObject logic = GameObject.Find( "GameLogic" );
+		AnalyticsSceneScript tracking = logic.GetComponent<AnalyticsSceneScript>();
+		tracking.Tracking.TrackEvent( time, key, value );
+	}
+
+	protected string GetPositionForTrackEvent()
+	{
+		return string.Format( "{0} {1} {2}", transform.position.x, transform.position.y, transform.position.z );
 	}
 }
