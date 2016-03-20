@@ -5,6 +5,7 @@ using System.IO;
 public class AnalyticsSceneScript : MonoBehaviour
 {
 	public AnalyticTrackingScript Tracking = new AnalyticTrackingScript();
+	public AnalyticOverallTrackingScript OverallTracking = new AnalyticOverallTrackingScript();
 
 	void Start()
 	{
@@ -18,6 +19,7 @@ public class AnalyticsSceneScript : MonoBehaviour
 
 	void OnApplicationQuit()
 	{
-        Tracking.Save( Path.Combine( Application.dataPath, "testanalytic.xml" ) );
+        Tracking.Save( Path.Combine( Application.dataPath, "analytic_heatmap.xml" ) );
+		OverallTracking.Save( Path.Combine( Application.dataPath, "analytic_overall.xml" ) );
 	}
 }

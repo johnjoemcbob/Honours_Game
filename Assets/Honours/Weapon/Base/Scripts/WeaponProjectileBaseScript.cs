@@ -11,7 +11,7 @@ public class WeaponProjectileBaseScript : MonoBehaviour
 	public string AllyTag = "Player";
     public GameObject DeathEffectPrefab;
 
-	private bool HasHitUnit = false;
+	//private bool HasHitUnit = false;
 
 	void Update()
 	{

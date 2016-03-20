@@ -201,9 +201,6 @@ public class EnemyUnitSlimeScript : EnemyUnitBaseScript
         float Vx = Mathf.Sign( projectile_Velocity ) * Mathf.Sqrt( Mathf.Abs( projectile_Velocity ) ) * Mathf.Cos( firingAngle * Mathf.Deg2Rad );
         float Vy = Mathf.Sign( projectile_Velocity ) * Mathf.Sqrt( Mathf.Abs( projectile_Velocity ) ) * Mathf.Sin( firingAngle * Mathf.Deg2Rad );
 
-        // Calculate flight time.
-        float flightDuration = ( target_Distance / Vx );
-
         // Rotate projectile to face the target.
         Projectile.rotation = Quaternion.LookRotation( TargetPosition - Projectile.position );
 

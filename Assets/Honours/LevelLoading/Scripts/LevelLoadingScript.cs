@@ -8,8 +8,8 @@ public class LevelLoadingScript : MonoBehaviour
     public GameObject RouteNodePrefab;
 
     // Internal variables for stepping through the level loading
-    private int CurrentRoute = 0;
-    private int CurrentRouteNode = 0;
+    //private int CurrentRoute = 0;
+    //private int CurrentRouteNode = 0;
     // Store references to each of the created routes and their associated nodes for linking after spawning
     private ArrayList LoadedRoutes = new ArrayList();
 
@@ -17,8 +17,8 @@ public class LevelLoadingScript : MonoBehaviour
     void Start()
     {
         // Ensure everything is reset
-        CurrentRoute = 0;
-        CurrentRouteNode = 0;
+        //CurrentRoute = 0;
+        //CurrentRouteNode = 0;
         LoadedRoutes.Clear();
 
         // Begin loading

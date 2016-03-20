@@ -67,7 +67,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 			// Track the player's position when they move move than a certain distance
 			if ( Vector3.Distance( transform.position, LastTrackPosition ) > 1 )
 			{
-				TrackEvent( Time.time, "PlayerPos", GetPositionForTrackEvent() );
+				TrackEvent( Time.time, "playerpos", GetPositionForTrackEvent() );
 				LastTrackPosition = transform.position;
 			}
 
@@ -89,7 +89,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 				GameObject effect = (GameObject) Instantiate( LandEffect, transform.position - transform.up * 0.6f, transform.rotation );
 				effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 
-				TrackEvent( Time.time, "PlayerJumpEnd", GetPositionForTrackEvent() );
+				TrackEvent( Time.time, "playerjumpend", GetPositionForTrackEvent() );
 			}
 			if ( !m_CharacterController.isGrounded && !m_Jumping && m_PreviouslyGrounded )
 			{
@@ -135,8 +135,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
 					PlayJumpSound();
 					m_Jump = false;
 					m_Jumping = true;
-					TrackEvent( Time.time, "PlayerJumpStart", GetPositionForTrackEvent() );
-                }
+					TrackEvent( Time.time, "playerjumpstart", GetPositionForTrackEvent() );
+					TrackOverallEvent( "playerjump" );
+				}
 			}
 			else
 			{
@@ -276,6 +277,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
 			GameObject logic = GameObject.Find( "GameLogic" );
 			AnalyticsSceneScript tracking = logic.GetComponent<AnalyticsSceneScript>();
 			tracking.Tracking.TrackEvent( time, key, value );
+		}
+
+		protected void TrackOverallEvent( string key )
+		{
+			GameObject logic = GameObject.Find( "GameLogic" );
+			AnalyticsSceneScript tracking = logic.GetComponent<AnalyticsSceneScript>();
+			tracking.OverallTracking.TrackEvent( key );
 		}
 
 		private string GetPositionForTrackEvent()

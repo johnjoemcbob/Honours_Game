@@ -94,7 +94,7 @@ public class EnemyUnitCubeScript : EnemyUnitBaseScript
 		}
 	}
 
-	private void UpdateAttack()
+	private new void UpdateAttack()
 	{
 		if ( AttackCooldown > Time.time ) return;
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<RoundData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <AnalyticDataIndividual>
+      <Key>playerjump</Key>
+      <Timestamp>22</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>enemydie</Key>
+      <Timestamp>38</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>enemygate</Key>
+      <Timestamp>1</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>playerjump</Key>
+      <Timestamp>5</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>enemydie</Key>
+      <Timestamp>8</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>playerjump</Key>
+      <Timestamp>12</Timestamp>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Key>enemygate</Key>
+      <Timestamp>11</Timestamp>
+    </AnalyticDataIndividual>
+  </Data>
+</RoundData>

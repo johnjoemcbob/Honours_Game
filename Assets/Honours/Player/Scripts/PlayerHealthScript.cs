@@ -13,7 +13,7 @@ public class PlayerHealthScript : ObjectHealthScript
 	public Text Text_Health;
 	public Image Image_Health;
 
-	public void Start()
+	public new void Start()
 	{
         base.Start();
 

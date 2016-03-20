@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<RoundData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <AnalyticDataIndividual>
+      <Timestamp>0</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>9.536741E-08 0 2.384186E-07</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-0.2999998 0.02999997 2.384186E-07</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.3879055</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.421038955</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.2999998 1.11228 2.384186E-07</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.6529726</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.4972135 2.115832 -0.03282511</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.703012</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.786685646</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.8352055</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-1.266996 2.644457 -0.4771768</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.8352055</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0.967739165</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.03400576</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-2.046985 2.486257 -1.090113</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.10027254</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.16653907</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.18310583</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-2.826754 1.794642 -1.103199</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.18310583</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.24937236</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.3156395</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.378647 0.9463145 -0.8677961</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.3489269</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.36533964</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.415444</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.838558 0.03000006 -0.6716275</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.415444</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>-3.838558 0.03000006 -0.6716275</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.5144397</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.5641396</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.57999992</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-4.574003 0.03000012 -0.3567951</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.61396527</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.757692 0.4221521 -0.2776861</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.61396527</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.66353953</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.72980571</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.30876 1.410256 -0.04035884</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.74639845</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.76293921</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.86233878</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.950065 2.205961 0.2402016</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.86233878</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.92901254</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>1.96190631</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.02800584</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.04457235</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.764512 2.663953 0.6218947</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.144162</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.19367242</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.21024013</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.243732</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-7.43128 2.427274 1.359011</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.27650571</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.34277248</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.39248228</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.4090395</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.057058 1.672874 1.849122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.52500582</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.612116 0.7774588 2.074924</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.57470584</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.60783935</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>-9.002974 0.03000003 2.159408</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.60783935</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.60783935</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.64097238</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.3912164 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.674106</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.297055 0.03000006 2.218706</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.674106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.80663943</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.8896513</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-10.36998 0.03000006 2.457802</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>2.98889017</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.005439</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6552231 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.005439</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.0551393</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.3912164 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.08827233</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.1048398</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-11.20273 0.03 3.140259</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.24</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-11.43013 0.03000006 3.693412</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.28709626</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-11.4846 0.606456 3.988255</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.40303922</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-11.48755 1.547472 4.587106</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.40303922</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6552231 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.43705058</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.45273972</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01095507 -0.4138274 1.38578</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.45273972</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.3912164 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.50243926</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.56870556</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-10.81257 2.362673 4.67734</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.76750541</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.825997 2.675353 4.514014</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.80064344</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01022608 -0.6072019 -0.7027349</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.80064344</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6552231 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.850339</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01095507 -0.4138274 1.38578</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.850339</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.86690545</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.3912164 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>3.96630621</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.835892 2.203234 4.393416</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.0491395</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.966229 19.08936</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.116328</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.157754 1.405794 4.562708</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.181672</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-7.382192 0.7774587 4.758595</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.214813</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01022608 -0.6072019 -0.7027349</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.23137236</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6552231 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.24793863</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01748089 -0.4403623 -2.738667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.24793863</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01095507 -0.4138274 1.38578</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.26450539</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.603329 0.02999997 4.941276</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.26450539</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>-6.603329 0.02999997 4.941276</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.28107262</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.3912164 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.380472</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.435034 0.03000009 5.215296</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.4</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-5.435034 0.03000009 5.215296</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.463411</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.655703 0.7829121 5.395936</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.54645</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.861322 1.410256 5.483287</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.612406</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01614167 -0.5631051 -4.827183</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.612406</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01022608 -0.6072019 -0.7027349</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.645539</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-2.867465 2.017856 5.386867</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.645539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01748089 -0.4168183 -2.738667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.645539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01074534 -0.6552231 3.439091</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.66210556</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01095507 -0.3942074 1.38578</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.744939</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-1.879506 2.429257 5.232156</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.844339</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.895862 2.644457 5.053044</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>4.9603076</Timestamp>
+      <Key>playerpos</Key>
+      <Value>0.2307446 2.643713 4.647424</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.010006</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01614167 -0.610193 -4.827183</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.026572</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01022608 -0.6582139 -0.7027349</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.043139</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02276521 -0.4708214 -6.863122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.043139</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01748089 -0.4403623 -2.738667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.076335</Timestamp>
+      <Key>playerpos</Key>
+      <Value>1.128412 2.427274 4.207147</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.14253855</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02267049 -0.4412946 1.385521</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.17592525</Timestamp>
+      <Key>playerpos</Key>
+      <Value>1.970896 2.014634 3.671732</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.258506</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01102443 3.96888 17.32416</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.275072</Timestamp>
+      <Key>playerpos</Key>
+      <Value>2.702584 1.405794 2.99089</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.341339</Timestamp>
+      <Key>playerpos</Key>
+      <Value>3.236456 0.7774587 2.395371</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.4076066</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02071023 -0.5229322 -8.95164</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.4076066</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01614167 -0.5631051 -4.827183</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.4241724</Timestamp>
+      <Key>playerpos</Key>
+      <Value>3.706114 0.02999997 1.747754</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.4241724</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>3.706114 0.02999997 1.747754</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.440739</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0251621 -0.4403625 -6.85958</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.47401953</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01989496 -0.4138277 -2.735126</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.50700569</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02116191 -0.5640373 -0.7029939</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.54013872</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.408063 0.03000003 0.7744781</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.62</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>4.754715 0.03000015 0.2848083</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.65610552</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.961522 0.4221521 -0.05738914</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.72237253</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.297343 1.11228 -0.7828504</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.805206</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02289111 -0.5631053 -8.948098</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.82177258</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.516705 1.79836 -1.756626</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.82177258</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02513178 -0.5052076 -10.96681</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.82177258</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.018371 -0.6072025 -4.823641</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.85490561</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02276521 -0.5061375 -6.863122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.92128325</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.533432 2.288241 -2.756404</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.9543066</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02846175 -0.4708214 -2.737825</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>5.9543066</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.008338368 2.978486 15.53965</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.020572</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.579144 2.581921 -3.755347</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.053706</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>0</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02283368 -0.4014831 -12.70725</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.13699341</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.640541 2.679401 -4.753457</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.20281363</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02071023 -0.4876163 -8.95164</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.235939</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.74673 2.580682 -5.747135</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.252506</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0285099 -0.4708214 -10.98404</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.269072</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02477708 -0.4403625 -6.85958</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.302206</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02628135 -0.5229321 -4.82634</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.335339</Timestamp>
+      <Key>playerpos</Key>
+      <Value>6.003182 2.285762 -6.712347</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.40160561</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.434739</Timestamp>
+      <Key>playerpos</Key>
+      <Value>6.477859 1.794642 -7.58751</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.46787262</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.53413868</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.302269 1.107323 -8.128675</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.54</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02590053 -0.4259569 -12.72447</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.600405</Timestamp>
+      <Key>playerpos</Key>
+      <Value>8.08587 0.416203 -8.28489</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.633539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02254085 -0.5631052 -8.948098</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.650106</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>8.482169 0.1300001 -8.339176</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.650106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02739703 -0.5435114 -10.98648</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.71727753</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.06984 0.1251517 -8.421531</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.73293924</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.74950552</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.03212264 -0.4738121 -6.862277</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.75999975</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>9.469508 0.1244283 -8.426385</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.8157773</Timestamp>
+      <Key>playerpos</Key>
+      <Value>10.06568 0.7008843 -8.490783</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.832339</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.882039</Timestamp>
+      <Key>playerpos</Key>
+      <Value>10.86264 1.35962 -8.444837</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.882039</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.915172</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.005670299 1.994729 13.7671</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.94</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02488922 -0.380927 -12.72691</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.981439</Timestamp>
+      <Key>playerpos</Key>
+      <Value>11.7453 2.006461 -7.986816</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>6.981439</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.064272</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02819388 -0.5061374 -10.98404</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.080839</Timestamp>
+      <Key>playerpos</Key>
+      <Value>12.48882 2.457101 -7.321812</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.113972</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0292231 -0.5259229 -8.95079</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.147262</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.18023872</Timestamp>
+      <Key>playerpos</Key>
+      <Value>13.02065 2.711541 -6.477133</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.18023872</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.24650574</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.29620552</Timestamp>
+      <Key>playerpos</Key>
+      <Value>13.40497 2.769781 -5.554845</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.29620552</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.35999966</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02561346 -0.402413 -12.72447</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.362472</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.412279</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.54470539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.03670652 -0.5444444 -10.9832</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.561272</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.594406</Timestamp>
+      <Key>playerpos</Key>
+      <Value>13.40857 1.767303 -5.359131</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.6109724</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.64410543</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.69380569</Timestamp>
+      <Key>playerpos</Key>
+      <Value>13.42112 1.040743 -6.114151</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.710373</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.760072</Timestamp>
+      <Key>playerpos</Key>
+      <Value>13.37138 0.3182316 -6.900145</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.79320574</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.809772</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>13.13032 0.03000006 -7.218157</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.82633924</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.83999968</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.03334711 -0.38186 -12.72363</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.876039</Timestamp>
+      <Key>playerpos</Key>
+      <Value>12.65593 0.03000006 -7.581535</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.8926053</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.96</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>11.9431 0.03000006 -7.944669</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.97543859</Timestamp>
+      <Key>playerpos</Key>
+      <Value>11.76474 0.23 -8.035155</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>7.97543859</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.02514</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.041706</Timestamp>
+      <Key>playerpos</Key>
+      <Value>11.05131 0.9515201 -8.397103</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.07484</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.124539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.141107</Timestamp>
+      <Key>playerpos</Key>
+      <Value>10.15951 1.67684 -8.849539</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.207374</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.223939</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.223939</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.240527</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.245413 2.205961 -9.254229</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.290206</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577658 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.35699749</Timestamp>
+      <Key>playerpos</Key>
+      <Value>8.285947 2.538881 -9.531906</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.389606</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.422739</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.456372</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.293816 2.675601 -9.542179</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.472443</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003035148 1.023107 12.01642</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.489006</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.538706</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.555273</Timestamp>
+      <Key>playerpos</Key>
+      <Value>6.345891 2.616121 -9.225738</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.604991</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.621539</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071675 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.654673</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.409832 2.360442 -8.873897</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.654673</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.67124</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351759 -0.4147605 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.721047</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3734616 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.754073</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.466773 1.908562 -8.543626</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.803774</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.853473</Timestamp>
+      <Key>playerpos</Key>
+      <Value>3.48349 1.260482 -8.364932</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.853473</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.886606</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.089154 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.920008</Timestamp>
+      <Key>playerpos</Key>
+      <Value>2.686207 0.6007549 -8.301834</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.952873</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>8.986215</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>2.08715 0.03000015 -8.330784</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.03570652</Timestamp>
+      <Key>playerpos</Key>
+      <Value>1.693318 0.03000009 -8.398457</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.03570652</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6081352 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.03570652</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.068839</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003352077 -0.3912164 5.510229</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.068839</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.085406</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004926606 -0.7081003 7.430133</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.12</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>0.9319819 0.03000009 -8.642163</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.135106</Timestamp>
+      <Key>playerpos</Key>
+      <Value>0.7508681 0.2300001 -8.727003</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.135106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3734616 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.201373</Timestamp>
+      <Key>playerpos</Key>
+      <Value>0.0360451 0.9515201 -9.086131</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.201373</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.101073 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.267639</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.300773</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.8541675 1.67684 -9.541677</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.300773</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.36704</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.400173</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-1.74438 2.205961 -9.997221</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.433307</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154926 -0.6552231 3.421712</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.450015</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.46644</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0117588 -0.4403624 1.386887</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.46644</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.558584 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.483006</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004926606 -0.7081003 7.430133</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.516512</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-2.634593 2.538881 -10.45277</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.532705</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.004140834 -0.3912166 5.395307</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.549273</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.61554</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.556381 2.675601 -10.835</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.632106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.665376</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.9207944 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.715308</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.544259 2.616121 -10.9864</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.732016</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.781236</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.814721</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.540926 2.360442 -11.0665</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.830906</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01097636 -0.5631051 -0.7016281</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.847473</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8887191 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.864039</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01095537 -0.4138274 1.385781</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.880607</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003896501 -0.6552233 3.30679</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.880607</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.004941877 -0.7071673 7.546162</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.880607</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.913764</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.535747 1.908562 -11.16071</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.930306</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.004140834 -0.4147606 5.395307</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>9.96344</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.866583 -0.3734616 12.14454</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.01314</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-7.51834 1.260482 -11.34565</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.0469294</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.0964832</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.315585 0.6007549 -11.37457</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.0964832</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.970127 0.4871863 12.03665</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.0964832</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.1456728</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>-8.897508 0.02999997 -11.23343</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.1456728</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.1953726</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.251893 0.03000003 -11.05091</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.1953726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.96623 19.08937</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.2285061</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01022636 -0.6072019 -0.7027339</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.2616386</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0182114 -0.5061374 -2.737561</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.2616386</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.2952242</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003896501 -0.6081353 3.30679</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3113394</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.94508 0.03000009 -10.09731</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3113394</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3279057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01164949 -0.4138275 1.270859</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3279057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003351758 -0.4147605 5.510228</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3279057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.837183 -0.7081003 12.83636</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.3610458</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.866583 -0.3734616 12.14454</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.38</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-10.06242 0.03000009 -9.510075</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.4107523</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-10.03418 0.4221521 -9.111239</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.46044</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.4935722</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.944362 1.11228 -8.316504</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.5102024</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.5929728</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.69148 1.79836 -7.350897</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6261063</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01681625 -0.4876162 -4.826077</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6764345</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01748114 -0.4403623 -2.738667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6923771</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.232173 2.28824 -6.466063</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6923771</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01087145 -0.6072021 -0.8176558</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6923771</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.003154629 -0.6081352 3.421711</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.6923771</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7255735</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01245312 -0.4168186 1.271965</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7255735</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.837183 -0.7081003 12.83636</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7255735</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7420721</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 3.968942 17.2987</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.75864</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.844015 0.3510913 12.72819</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7752056</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.759327 -0.3755206 13.50413</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7917728</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.552181 2.581921 -5.73841</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.7917728</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.866583 -0.3577656 12.14454</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.8083906</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.966127 19.08918</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.8911724</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-7.775479 2.679401 -5.10855</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.9243059</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>10.9905863</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.997236 2.580681 -4.480587</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.0237055</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01614188 -0.5631051 -4.827182</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.0734062</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02423589 -0.5435114 -6.860909</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.0899725</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.244359 2.285762 -3.824193</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.0899725</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01162143 -0.6101933 -0.81655</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.1065388</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.123106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0180768 -0.4403624 -2.853589</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.123106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0117588 -0.4403624 1.386887</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.123106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.728901 -0.7101594 14.19888</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.123106</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.727705 -0.7071673 12.79793</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.1728058</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.759327 -0.3912166 13.50413</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.189373</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.697236 1.794642 -2.991897</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.2059393</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.866583 -0.3577656 12.14454</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.2887726</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.368138 1.107323 -2.049628</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.35504</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 3.968942 17.29871</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.3716059</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.187409 0.416203 -1.270337</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4047394</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>-5.084326 0.02999997 -0.8839061</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4213057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02204838 -0.4543581 -8.949427</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4213057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.96623 19.08937</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4378729</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.978534 15.5204</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4710064</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.856228 0.03000003 -0.3301376</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4710064</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02276538 -0.4708214 -6.863122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4879246</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01668604 -0.5631052 -4.942104</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.4879246</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01186841 -0.5631051 -0.7026684</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.5207062</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02123001 -0.4403628 -2.848941</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.5207062</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.728901 -0.6552234 14.19888</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.5538387</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.727705 -0.7071673 12.79793</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.570406</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.65071 -0.3912163 13.46657</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.58</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-4.226476 0.03000003 0.4343086</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.5872135</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.056193 0.23 0.5392082</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.6201057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-1.866583 -0.3734616 12.14454</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.6698065</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.285986 0.95152 0.6726623</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.6698065</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.729437 0.2141585 13.42399</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.7694578</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-2.379471 1.67684 0.2673247</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.7857723</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.220414 -0.4262735 12.80702</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.8355446</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02071041 -0.5229322 -8.951639</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.8686056</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-1.561638 2.205961 -0.3081245</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.8686056</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02788453 -0.5465022 -10.98537</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.885313</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.01959695 -0.5631056 -4.937457</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9348726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.0232572 -0.5061372 -6.978044</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9348726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.620387 -0.6552231 14.16101</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9680061</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.7444928 2.538881 -0.8845569</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9680061</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 3.968941 17.2987</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9845724</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.65071 -0.4147604 13.46658</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>11.9845724</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.837183 -0.7081003 12.83636</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.0342722</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.96623 19.08937</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.0508394</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.978532 15.52041</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.0674057</Timestamp>
+      <Key>playerpos</Key>
+      <Value>0.08860296 2.675601 -1.436307</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.1005392</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02578938 -0.5061364 -2.760833</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.16</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02533224 -0.3525259 -12.7258</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.1833725</Timestamp>
+      <Key>playerpos</Key>
+      <Value>1.210837 2.580681 -1.849821</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.2166538</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.360495 -0.4205288 12.98684</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.2331667</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.422451 -0.564255 10.81113</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.266715</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02658485 -0.5052043 -10.98758</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.282773</Timestamp>
+      <Key>playerpos</Key>
+      <Value>2.197042 2.285762 -2.014964</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.282773</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02114734 -0.487616 -9.066562</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.3324728</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.025932 -0.4708214 -6.973395</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.3490391</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.620387 -0.6081351 14.16103</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.3821726</Timestamp>
+      <Key>playerpos</Key>
+      <Value>3.182316 1.794642 -2.184807</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.4318724</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.759327 -0.3912166 13.50413</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.4651957</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02381202 -0.4876151 -4.849348</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.4815731</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.171434 1.107322 -2.331926</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5599995</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02415122 -0.4014799 -12.72801</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5644054</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.960243 0.4162029 -2.464989</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5644054</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.527195 -0.5432715 10.90498</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5809727</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.629011 -0.3809257 8.73286</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5809727</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.211208 -0.4061193 12.92493</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.5809727</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 3.968941 17.2987</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.6141062</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>5.345644 0.03000009 -2.569194</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.64724</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.663806</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.872679 0.03 -2.853362</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.663806</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.978533 15.5204</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.6803722</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02357997 -0.5229321 -9.061913</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.7300749</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02777745 -0.5435114 -11.1014</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.74</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>6.321887 0.03 -3.249418</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.7632055</Timestamp>
+      <Key>playerpos</Key>
+      <Value>6.588492 0.422152 -3.547515</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.797081</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.728901 -0.6552234 14.19888</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.8460388</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.013555 1.11228 -4.224093</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.9123058</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.03067663 -0.5435113 -6.884179</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.9288721</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.69388 -0.3991823 8.823122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.9454384</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.373467 1.79836 -5.155754</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>12.9454384</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.41391 -0.5498885 10.89663</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02538989 -0.352526 -12.7258</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.0119076</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.001895678 2.022574 13.74152</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.0119076</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.99459 13.75371</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.0282726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.824395 -0.5790894 6.706517</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.0282726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.351285 -0.4038993 13.10231</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.04484</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.914701 2.28824 -5.993093</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.04484</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 3.358646 17.92241</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.1111059</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.605182 0.07792853 14.11622</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.1276722</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.02916192 -0.5052043 -11.09786</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.1442394</Timestamp>
+      <Key>playerpos</Key>
+      <Value>8.621195 2.581921 -6.699759</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.243639</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.69097 16.56684</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.2602062</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.276124 2.675353 -7.693033</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.2602062</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.027905 -0.42689 -8.972692</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.276803</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.978495 15.52034</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.309906</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.620484 -0.3783312 8.818359</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.3761721</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.465886 2.537393 -8.671945</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.3761721</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.852206 -0.5642559 6.790617</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.02665581 -0.3809268 -12.72226</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4093056</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.1268324 15.16571</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4755726</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.396897 2.203234 -9.666648</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4755726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.520303 -0.5790181 11.02556</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4755726</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.360495 -0.4205288 12.98684</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.4921389</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.811379 -0.4868001 7.028741</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.5749731</Timestamp>
+      <Key>playerpos</Key>
+      <Value>9.165564 1.672874 -10.63833</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.6246729</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.994758 13.75401</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.6743727</Timestamp>
+      <Key>playerpos</Key>
+      <Value>8.647532 0.9463146 -11.48293</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.6743727</Timestamp>
+      <Key>enemypos</Key>
+      <Value>4.645893E-14 -0.2000001 13.1446</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.7075071</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.03399385 -0.5534173 -11.00753</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.74064</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.991361 0.223803 -11.93686</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.74064</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.817833 -0.579019 6.788916</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.7740574</Timestamp>
+      <Key>playerjumpend</Key>
+      <Value>7.814445 0.03000006 -12.03013</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.8069057</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-10.02207 -0.6642031 4.73272</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.823472</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.686042 -0.3642968 8.943635</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.823472</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.527195 -0.5432715 10.90498</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.8400393</Timestamp>
+      <Key>playerpos</Key>
+      <Value>7.094009 0.03000006 -12.37639</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.9063063</Timestamp>
+      <Key>enemypos</Key>
+      <Value>9.03744E-14 -0.2000001 11.01915</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.9228725</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.911152 -0.5435113 7.759235</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.9725733</Timestamp>
+      <Key>playerpos</Key>
+      <Value>5.914649 0.03000006 -12.56774</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>13.98</Timestamp>
+      <Key>enemygate</Key>
+      <Value>0.03108642 -0.3428119 -12.63193</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.07828</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.0946827</Timestamp>
+      <Key>playerpos</Key>
+      <Value>4.725871 0.03000006 -12.42608</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.1278162</Timestamp>
+      <Key>enemypos</Key>
+      <Value>1.297967E-13 -0.2000001 8.827196</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.1940823</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.69388 -0.3991823 8.823122</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.2108421</Timestamp>
+      <Key>playerpos</Key>
+      <Value>3.607446 0.03000006 -11.99933</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.2108421</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.798847 -0.4866827 7.096384</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.2272167</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.0035 13.76971</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.2603493</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.841172 -0.5977061 6.913617</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.2934828</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.958246 -0.4543579 8.499527</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.3100491</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-8.108612 -0.3478746 5.548121</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.3270988</Timestamp>
+      <Key>playerpos</Key>
+      <Value>2.577728 0.03000006 -11.38623</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.3270988</Timestamp>
+      <Key>enemypos</Key>
+      <Value>1.996268E-13 -0.2000001 6.677518</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.4260159</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.089154 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.4425831</Timestamp>
+      <Key>playerpos</Key>
+      <Value>1.573619 0.03000006 -10.73385</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.4922829</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.5088491</Timestamp>
+      <Key>enemypos</Key>
+      <Value>3.541659E-13 -0.2000001 4.632444</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.5751171</Timestamp>
+      <Key>playerpos</Key>
+      <Value>0.4336685 0.03000006 -10.36664</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.5751171</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0.001012275 1.0353 11.99794</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.5751171</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.020357 12.00445</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.6248159</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.852206 -0.5642559 6.790617</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.6413822</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-6.379578 -0.7639844 6.497409</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.6413822</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.893344 -0.5435113 7.813401</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.691083</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-0.7563666 0.03000006 -10.32193</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.691083</Timestamp>
+      <Key>enemypos</Key>
+      <Value>6.153975E-13 -0.2000001 2.506455</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.7246151</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-2.056532 -0.5465023 9.226507</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.7407827</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.101073 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.7739162</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-7.839273 -0.4876163 7.006311</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.80705</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-1.916769 0.03000006 -10.62635</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.8401833</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.8733158</Timestamp>
+      <Key>enemypos</Key>
+      <Value>9.538491E-13 -0.2 0.3126864</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.9064493</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>14.9230433</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-3.049929 0.03000006 -11.01608</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.00585</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-8.880506 -0.01469454 12.5636</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.00585</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.935263 -0.4543582 8.539906</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.00585</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.558584 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.0224161</Timestamp>
+      <Key>enemypos</Key>
+      <Value>1.44142E-12 -0.2000001 -1.688367</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.05555</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.098001 0.03000006 -11.593</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.0721369</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-10.02207 -0.6642031 4.73272</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.0886822</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-4.599204 -0.3921494 7.482683</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.1052494</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.1440971 -0.5130709 9.94581</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.1715155</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-4.948432 0.03000006 -12.43821</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.1715155</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.1880913</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.020352 12.00444</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.1880913</Timestamp>
+      <Key>enemypos</Key>
+      <Value>2.215121E-12 -0.2000001 -3.730129</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.20465</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-5.941129 -0.5435113 7.739526</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.20465</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.9207944 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.2599993</Timestamp>
+      <Key>playerjumpstart</Key>
+      <Value>-5.570799 0.03000006 -12.93861</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.270916</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-5.742085 0.23 -13.04186</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.270916</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.3206158</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.3537493</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-6.467756 0.9515201 -13.37533</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.3537493</Timestamp>
+      <Key>enemypos</Key>
+      <Value>3.38707E-12 -0.2 -5.802313</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.3868828</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8887191 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.4200163</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.45315</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-7.440464 1.67684 -13.6044</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.45315</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-2.767157 -0.6561561 8.485431</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.45315</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-2.028456 -0.5465024 9.253434</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.50285</Timestamp>
+      <Key>enemypos</Key>
+      <Value>5.148181E-12 -0.2 -7.902722</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.5692692</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-8.224123 2.28824 -13.73391</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.5692692</Timestamp>
+      <Key>enemypos</Key>
+      <Value>1.693135 -0.5052031 10.78339</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.5692692</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-3.989133 -0.4543579 8.482219</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.5856829</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-8.10925 -0.3478628 5.541775</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.5856829</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.6364307</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.6685162</Timestamp>
+      <Key>enemypos</Key>
+      <Value>7.848882E-12 -0.2 -10.03142</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.6850834</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 5.08523 17.0615</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.7347832</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.996076 19.15</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.7679167</Timestamp>
+      <Key>playerpos</Key>
+      <Value>-9.205141 2.679401 -13.7346</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.7679167</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-9.175487 -0.03611825 10.57061</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.784483</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 1.027804 12.01782</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.8010492</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 -0.8926425 11.49213</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.8341827</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.1258547 -0.5188437 9.953686</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.8341827</Timestamp>
+      <Key>enemypos</Key>
+      <Value>1.193166E-11 -0.2 -12.178</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.85075</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 2.554661 13.69667</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.86</Timestamp>
+      <Key>enemygate</Key>
+      <Value>1.324035E-11 -0.2 -12.71794</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.9004507</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.9782206 -0.4310445 9.468843</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.9004507</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-0.005201499 -0.3577656 9.518651</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.9335833</Timestamp>
+      <Key>enemypos</Key>
+      <Value>3.555459 -0.4866819 11.72871</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>15.9335833</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-6.380758 -0.7639724 6.492052</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>16.0164165</Timestamp>
+      <Key>enemypos</Key>
+      <Value>-2.088321 -0.5465021 9.211564</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>16.0164165</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 4.097149 15.20505</Value>
+    </AnalyticDataIndividual>
+    <AnalyticDataIndividual>
+      <Timestamp>16.04955</Timestamp>
+      <Key>enemypos</Key>
+      <Value>0 0.916871 12.53638</Value>
+    </AnalyticDataIndividual>
+  </Data>
+</RoundData>

@@ -103,9 +103,9 @@ public class EnemyUnitBaseScript : MonoBehaviour
 	protected void UpdateAnalytic()
 	{
 		// Track the player's position when they move move than a certain distance
-		if ( Vector3.Distance( transform.position, LastTrackPosition ) > 1 )
+		if ( Vector3.Distance( transform.position, LastTrackPosition ) > 2 )
 		{
-			TrackEvent( Time.time, "EnemyPos", GetPositionForTrackEvent() );
+			TrackEvent( Time.time, "enemypos", GetPositionForTrackEvent() );
 			LastTrackPosition = transform.position;
 		}
 	}
@@ -116,7 +116,8 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 		Destroy( gameObject );
 
-		TrackEvent( Time.time, "EnemyGate", GetPositionForTrackEvent() );
+		TrackEvent( Time.time, "enemygate", GetPositionForTrackEvent() );
+		TrackOverallEvent( "enemygate" );
 	}
 
 	public void Die_Killed()
@@ -125,14 +126,22 @@ public class EnemyUnitBaseScript : MonoBehaviour
 		effect.transform.SetParent( GameObject.Find( "GameObjectContainer" ).transform );
 		Destroy( gameObject );
 
-		TrackEvent( Time.time, "EnemyDie", GetPositionForTrackEvent() );
-	}
+		TrackEvent( Time.time, "enemydie", GetPositionForTrackEvent() );
+		TrackOverallEvent( "enemydie" );
+    }
 
 	protected void TrackEvent( float time, string key, string value )
 	{
 		GameObject logic = GameObject.Find( "GameLogic" );
 		AnalyticsSceneScript tracking = logic.GetComponent<AnalyticsSceneScript>();
 		tracking.Tracking.TrackEvent( time, key, value );
+	}
+
+	protected void TrackOverallEvent( string key )
+	{
+		GameObject logic = GameObject.Find( "GameLogic" );
+		AnalyticsSceneScript tracking = logic.GetComponent<AnalyticsSceneScript>();
+		tracking.OverallTracking.TrackEvent( key );
 	}
 
 	protected string GetPositionForTrackEvent()
