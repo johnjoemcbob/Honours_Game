@@ -264,19 +264,6 @@
     <LevelObject>
       <Mesh>Wall</Mesh>
       <Position>
-        <x>5</x>
-        <y>-1</y>
-        <z>-15</z>
-      </Position>
-      <Rotation>
-        <x>270.019775</x>
-        <y>0</y>
-        <z>0</z>
-      </Rotation>
-    </LevelObject>
-    <LevelObject>
-      <Mesh>Wall</Mesh>
-      <Position>
         <x>7</x>
         <y>-1</y>
         <z>-15</z>
