@@ -42,6 +42,7 @@ public class GameLogicScript : MonoBehaviour
 		// Turn on menu ui for both outcomes
 		MenuUI.SetActive( true );
 		GameUI.SetActive( false );
+		GameObject.Find( "Player" ).GetComponent<PlayerLockCursorScript>().SetCursor( true );
 		// Turn on the menu with special 'you lost/won' text
 		Text_Lose.enabled = lose;
 		Text_Win.enabled = !lose;
@@ -58,6 +59,8 @@ public class GameLogicScript : MonoBehaviour
 
 	public void Button_PlayAgain()
 	{
+		if ( !Cursor.visible ) return;
+
 		// Reenable spawners
 		if ( Spawners.Length > 0 )
 		{
@@ -93,11 +96,17 @@ public class GameLogicScript : MonoBehaviour
 
 		// Reset the player's health
 		Player.GetComponent<PlayerHealthScript>().Reset();
-    }
+
+		GameObject.Find( "Player" ).GetComponent<PlayerLockCursorScript>().ToggleCursor();
+	}
 
 	public void Button_Exit()
 	{
+		if ( !Cursor.visible ) return;
+
 		Application.Quit();
+
+		GameObject.Find( "Player" ).GetComponent<PlayerLockCursorScript>().ToggleCursor();
 	}
 
 	public void SetFinishedRoundSpawning( bool finish )

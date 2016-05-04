@@ -64,6 +64,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
 		// Update is called once per frame
 		private void Update()
 		{
+			if ( Cursor.visible && ( !Application.isEditor ) ) return;
+
 			// Track the player's position when they move move than a certain distance
 			if ( Vector3.Distance( transform.position, LastTrackPosition ) > 1 )
 			{

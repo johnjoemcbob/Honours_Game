@@ -9,6 +9,8 @@ using UnityStandardAssets.Characters.FirstPerson;
 
 public class PlayerLockCursorScript : MonoBehaviour
 {
+	public GameObject UI = null;
+
 	private Vector2 MouseLookSensitivity = Vector2.zero;
 
 	void Start()
@@ -21,7 +23,7 @@ public class PlayerLockCursorScript : MonoBehaviour
 		if ( Application.isEditor ) return;
 
 		Cursor.lockState = CursorLockMode.Locked;
-		if ( !focus )
+        if ( !focus )
 		{
 			Cursor.lockState = CursorLockMode.None;
 		}
@@ -36,19 +38,35 @@ public class PlayerLockCursorScript : MonoBehaviour
 
 		if ( Input.GetKeyDown( KeyCode.Escape ) )
 		{
-			if ( Cursor.lockState == CursorLockMode.Locked )
-			{
-				Cursor.lockState = CursorLockMode.None;
-				Cursor.visible = true;
-			}
-			else
-			{
-				Cursor.lockState = CursorLockMode.Locked;
-				Cursor.visible = false;
-			}
-
-			LockCamera( Cursor.visible );
+			ToggleCursor();
 		}
+	}
+
+	public void SetCursor( bool cursor )
+	{
+		if ( cursor )
+		{
+			Cursor.lockState = CursorLockMode.None;
+			Cursor.visible = true;
+		}
+		else
+		{
+			Cursor.lockState = CursorLockMode.Locked;
+			Cursor.visible = false;
+		}
+
+		// Enable/disable UI
+		if ( UI )
+		{
+			UI.SetActive( Cursor.visible );
+		}
+
+		LockCamera( Cursor.visible );
+	}
+
+	public void ToggleCursor()
+	{
+		SetCursor( Cursor.lockState == CursorLockMode.Locked );
 	}
 
 	private void LockCamera( bool locktoggle )
